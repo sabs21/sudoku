@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=BoundaryViolationException
+comment1.params=msg
+comment1.target=BoundaryViolationException(java.lang.String)
+numComments=2

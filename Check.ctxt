@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Check
+comment1.params=grid\ num\ subGrid
+comment1.target=boolean\ subGrid(Cell[][][],\ int,\ int)
+comment2.params=grid\ num\ col
+comment2.target=boolean\ column(Cell[][][],\ int,\ int)
+comment3.params=grid\ num\ row
+comment3.target=boolean\ row(Cell[][][],\ int,\ int)
+comment4.params=grid\ num\ cell
+comment4.target=boolean\ valid(Cell[][][],\ int,\ Cell)
+numComments=5

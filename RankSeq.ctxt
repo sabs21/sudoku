@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RankSeq
+comment1.params=
+comment1.target=RankSeq()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=rank
+comment4.target=void\ checkRank(int)
+comment5.params=rank
+comment5.target=Node\ nodeAtRank(int)
+comment6.params=rank\ data
+comment6.target=void\ replaceItem(int,\ int)
+comment7.params=rank\ data
+comment7.target=void\ insertItem(int,\ int)
+comment8.params=rank
+comment8.target=int\ deleteItem(int)
+numComments=9
